@@ -30,12 +30,12 @@ This project aims to automate the capture of newly created leads via CRM webhook
 ---
 
 ##### Data Source
-For the data source we will be receiving a webhook for the CRM on new leads then storing them into S3
+For the data source we will be receiving a webhook for the CRM on new leads then storing them into S3.
 
 ---
 
-##### Bronze Stage 
-The initial section that will store our leads will be S3
+##### Storage
+The initial section that will store our leads will be S3.
 
 --- 
 
